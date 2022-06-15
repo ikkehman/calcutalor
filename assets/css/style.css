@@ -20,20 +20,13 @@
   padding-top: 30px;
   width: 300px;
 }
-.calcutalor-menu {
-  display: flex;
-  justify-content: space-between;
-  margin: 0 8px;
+.calcutalor-title {
+  background-color: #736e6e38;
 }
-.menu img {
-  width: 28px;
-  height: 28px;
-  cursor: pointer;
-}
-.history img {
-  width: 22px;
-  height: 22px;
-  cursor: pointer;
+.title-head {
+  text-align: left;
+  margin-left: 20px;
+  font-weight: bold;
 }
 .calcutalor-screen {
   width: 100%;
